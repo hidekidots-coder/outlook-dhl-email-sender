@@ -1,0 +1,18 @@
+# Excel temporary files
+~$*.xls*
+*.xlsm
+*.xlsx
+*.xlsb
+
+# Outlook temporary
+*.tmp
+*.ost
+*.pst
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
